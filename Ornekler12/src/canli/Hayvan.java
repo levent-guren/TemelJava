@@ -1,5 +1,9 @@
 package canli;
 
-public class Hayvan {
+public class Hayvan extends Object {
     int yas;
+
+    public Hayvan() {
+        super();
+    }
 }
