@@ -1,0 +1,2 @@
+module Ornek1 {
+}
